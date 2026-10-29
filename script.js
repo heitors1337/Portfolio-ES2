@@ -1,4 +1,3 @@
-// Saudação
 function saudacao() {
   const hora = new Date().getHours();
   const mensagemHorario = document.getElementById('saudacao');
